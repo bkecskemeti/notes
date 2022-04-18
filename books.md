@@ -12,7 +12,6 @@
 - [A Panoramic View of Riemannian Geometry](https://www.amazon.de/-/en/dp/3540653171/), Marcel Berger
 - [An Illustrated Theory of Numbers](https://www.amazon.de/-/en/dp/1470463717), Martin H. Weissman
 - [Curves for the Mathematically Curious: An Anthology of the Unpredictable, Historical, Beautiful, and Romantic](https://www.amazon.de/-/en/dp/0691180059), Julian Havil
-- [The Origin of Consciousness in the Breakdown of the Bicameral Mind](https://www.amazon.de/dp/0618057072), Julian Jaynes
 - [A Geometric Approach to Differential Forms](https://www.amazon.de/-/en/dp/0817683038/), David Bachman
 - [Sacred Mathematics: Japanese Temple Geometry](https://www.amazon.de/-/en/dp/069112745X), Hidetoshi, F.
 
@@ -44,3 +43,4 @@
 
 - [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](https://www.amazon.de/-/en/dp/1542866502), Sönke Ahrens
 - [A Choreographer's Handbook](https://www.amazon.de/-/en/dp/0415555302), Jonathan Burrows
+- [The Origin of Consciousness in the Breakdown of the Bicameral Mind](https://www.amazon.de/dp/0618057072), Julian Jaynes
